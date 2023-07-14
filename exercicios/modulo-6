@@ -1,6 +1,0 @@
-function calcularArea(base,altura){
-  return base*altura;
-{
-  let resultado = calcularArea(5,10);
-  console.log(resultado)
-}
