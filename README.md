@@ -5,9 +5,9 @@ Este repositório destina-se aos estudos do curso de Fullstack Python.
 EBAC Full Stack Developer course repository with Python version 2
 In this repository I will post everything about the course, all activities, examples and projects. I will be doing parallel projects along with the projects proposed by EBAC, for my portfolio and also to acquire more knowledge.
 
-#FRONT-END
+# FRONT-END
 
-#Module 1 - Introduction to Frontend Development
+# Module 1 - Introduction to Frontend Development
 - Developer Area
 - Introduction to the Marketplace
 - Overview Web  Technologies
@@ -15,7 +15,7 @@ In this repository I will post everything about the course, all activities, exam
 - Tools installation and configuration
 - Exercises
   
-#Module 2 - Code versioning using GIT
+# Module 2 - Code versioning using GIT
 - Introduction + Stage 
 - Commits 
 - Logs
@@ -25,7 +25,7 @@ In this repository I will post everything about the course, all activities, exam
 - Github 
 - Exercises
 
-#Module 3 - HTML
+# Module 3 - HTML
 - Introduction
 - Texts 
 - Containers
@@ -35,7 +35,7 @@ In this repository I will post everything about the course, all activities, exam
 - Media Tags 
 - Exercises
   
-#Module 4 - CSS
+# Module 4 - CSS
 - Syntaxes
 - Selectors
 - Box Model 
@@ -46,7 +46,7 @@ In this repository I will post everything about the course, all activities, exam
 - Text
 - Exercises
 
-#Module 5 Project 1
+# Module 5 Project 1
 
 - Project Presentation
 - Creating Header
@@ -55,7 +55,7 @@ In this repository I will post everything about the course, all activities, exam
 - Deploy
 - Exercises
   
-#Module 6 JavaScript
+# Module 6 JavaScript
 
 - JavaScript fundamentals
 - Syntaxes
@@ -66,7 +66,7 @@ In this repository I will post everything about the course, all activities, exam
 - Functions
 - Exercises
   
-#Module 7 Integrating HTML with JavaScript
+# Module 7 Integrating HTML with JavaScript
 
 - HTML DOM
 - Selectors
@@ -75,7 +75,7 @@ In this repository I will post everything about the course, all activities, exam
 - Styling elements with JavaScript
 - Exercises
   
-#Module 8 Project 2
+# Module 8 Project 2
 
 - Project Presentation
 - Creating structure
@@ -85,7 +85,7 @@ In this repository I will post everything about the course, all activities, exam
 - Deploy 
 - Exercises
   
-#Module 9 Getting to Know jQuery
+# Module 9 Getting to Know jQuery
 
 - Selectors
 - Events
@@ -94,7 +94,7 @@ In this repository I will post everything about the course, all activities, exam
 - Deploy
 - Exercises
   
-#Module 10 Plugins jQuery
+# Module 10 Plugins jQuery
 
 - Creating a hamburger menu and image carousel 
 - Creating about section and item listing
@@ -102,7 +102,7 @@ In this repository I will post everything about the course, all activities, exam
 - Creating a carousel
 - Exercises
   
-#Module 11 Responsive CSS fundamentals
+# Module 11 Responsive CSS fundamentals
 
 - Viewport
 - Flexible units of measure
@@ -113,7 +113,7 @@ In this repository I will post everything about the course, all activities, exam
 - Converting a fixed layout to responsive
 - Exercises
   
-#Module 12 Bootstrap Basics
+# Module 12 Bootstrap Basics
 
 - Intro
 - Grids
@@ -126,7 +126,7 @@ In this repository I will post everything about the course, all activities, exam
 - Form 
 - Exercises
   
-#Module 13 Advanced 
+# Module 13 Advanced 
 
 - Cards
 - Carousel
@@ -136,7 +136,7 @@ In this repository I will post everything about the course, all activities, exam
 - Toast
 - Exercises
   
-#Module 14 Project 3
+# Module 14 Project 3
 
 - Starting a Project
 - Creating a Responsive Menu
@@ -147,7 +147,7 @@ In this repository I will post everything about the course, all activities, exam
 - Improvements and Responsiveness
 - Exercises
   
-#Module 15 Introduction to SASS
+# Module 15 Introduction to SASS
 
 - Introduction to NODE and NPM
 - Syntaxes
@@ -157,7 +157,7 @@ In this repository I will post everything about the course, all activities, exam
 - Functions and Operators
 - Exercises
   
-#Module 16 Task automation with Gulp
+# Module 16 Task automation with Gulp
 
 - Configuring Gulp
 - Task Creation
@@ -167,7 +167,7 @@ In this repository I will post everything about the course, all activities, exam
 - Minifying JS with Gulp
 - Exercises
   
-#Module 17 Introduction to LESS
+# Module 17 Introduction to LESS
 
 - Syntaxes
 - Variables
@@ -177,7 +177,7 @@ In this repository I will post everything about the course, all activities, exam
 - Finishing Project
 - Exercises
   
-#Module 18 Task Automation with Grunt
+# Module 18 Task Automation with Grunt
 
 - Configuring Grunt
 - Task Creation
@@ -190,7 +190,7 @@ In this repository I will post everything about the course, all activities, exam
 - Compressing JS with Grunt
 - Exercises
   
-#Module 19 Best Practices with CSS
+# Module 19 Best Practices with CSS
 
 - CSS Specificity
 - Introduction to SMACSS
@@ -198,7 +198,7 @@ In this repository I will post everything about the course, all activities, exam
 - Writing BEM with SASS
 - Exercises
   
-#Module 20 Creating e-mail with HTML
+# Module 20 Creating e-mail with HTML
 
 - Creating the first e-mail
 - How to test an email
@@ -207,7 +207,7 @@ In this repository I will post everything about the course, all activities, exam
 - Creating a Promotional Email
 - Exercises
   
-#Module 21 Landing Page - Project 4 - Landing Page Disney+ clone
+# Module 21 Landing Page - Project 4 - Landing Page Disney+ clone
 
 - Starting the Project
 - Creating the Hero
@@ -222,7 +222,7 @@ In this repository I will post everything about the course, all activities, exam
 - Deploy 
 - Exercises
   
-#Module 22 Landing Page - Fictional Event Page
+# Module 22 Landing Page - Fictional Event Page
 
 - Presentation
 - Analyzing the Layout
@@ -232,7 +232,7 @@ In this repository I will post everything about the course, all activities, exam
 - Ticket purchase button
 - Exercises
   
-#Module 23 Landing Page - Ajax and Exceptions
+# Module 23 Landing Page - Ajax and Exceptions
 - Introduction
 - AJAX requests with XMLHttpRequest
 
