@@ -1,0 +1,9 @@
+.container{
+    width: 800px;
+}
+.btn-success{
+    margin-top: 15px;
+}
+#mensagem{
+    resize: none;
+}
