@@ -1,5 +1,5 @@
 
-## Modulo_13_EBAC - Boostrap
+## Modulo_13_EBAC - Boostrap Avançado
 
 -Cards
 -Carousel
